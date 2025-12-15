@@ -1,0 +1,113 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Asp\\Cadastro_AspNet_MVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4A435C85-B027-4E33-863A-30F12DD81B7E}|ControleDeContatos\\ControleDeContatos.csproj|c:\\asp\\cadastro_aspnet_mvc\\controledecontatos\\models\\usuariomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A435C85-B027-4E33-863A-30F12DD81B7E}|ControleDeContatos\\ControleDeContatos.csproj|solutionrelative:controledecontatos\\models\\usuariomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A435C85-B027-4E33-863A-30F12DD81B7E}|ControleDeContatos\\ControleDeContatos.csproj|c:\\asp\\cadastro_aspnet_mvc\\controledecontatos\\models\\contatomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A435C85-B027-4E33-863A-30F12DD81B7E}|ControleDeContatos\\ControleDeContatos.csproj|solutionrelative:controledecontatos\\models\\contatomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A435C85-B027-4E33-863A-30F12DD81B7E}|ControleDeContatos\\ControleDeContatos.csproj|c:\\asp\\cadastro_aspnet_mvc\\controledecontatos\\views\\usuario\\criar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4A435C85-B027-4E33-863A-30F12DD81B7E}|ControleDeContatos\\ControleDeContatos.csproj|solutionrelative:controledecontatos\\views\\usuario\\criar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A435C85-B027-4E33-863A-30F12DD81B7E}|ControleDeContatos\\ControleDeContatos.csproj|c:\\asp\\cadastro_aspnet_mvc\\controledecontatos\\controllers\\contatocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A435C85-B027-4E33-863A-30F12DD81B7E}|ControleDeContatos\\ControleDeContatos.csproj|solutionrelative:controledecontatos\\controllers\\contatocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A435C85-B027-4E33-863A-30F12DD81B7E}|ControleDeContatos\\ControleDeContatos.csproj|c:\\asp\\cadastro_aspnet_mvc\\controledecontatos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A435C85-B027-4E33-863A-30F12DD81B7E}|ControleDeContatos\\ControleDeContatos.csproj|solutionrelative:controledecontatos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 396,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UsuarioModel.cs",
+              "DocumentMoniker": "C:\\Asp\\Cadastro_AspNet_MVC\\ControleDeContatos\\Models\\UsuarioModel.cs",
+              "RelativeDocumentMoniker": "ControleDeContatos\\Models\\UsuarioModel.cs",
+              "ToolTip": "C:\\Asp\\Cadastro_AspNet_MVC\\ControleDeContatos\\Models\\UsuarioModel.cs",
+              "RelativeToolTip": "ControleDeContatos\\Models\\UsuarioModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T16:18:39.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ContatoModel.cs",
+              "DocumentMoniker": "C:\\Asp\\Cadastro_AspNet_MVC\\ControleDeContatos\\Models\\ContatoModel.cs",
+              "RelativeDocumentMoniker": "ControleDeContatos\\Models\\ContatoModel.cs",
+              "ToolTip": "C:\\Asp\\Cadastro_AspNet_MVC\\ControleDeContatos\\Models\\ContatoModel.cs",
+              "RelativeToolTip": "ControleDeContatos\\Models\\ContatoModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T16:18:32.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Criar.cshtml",
+              "DocumentMoniker": "C:\\Asp\\Cadastro_AspNet_MVC\\ControleDeContatos\\Views\\Usuario\\Criar.cshtml",
+              "RelativeDocumentMoniker": "ControleDeContatos\\Views\\Usuario\\Criar.cshtml",
+              "ToolTip": "C:\\Asp\\Cadastro_AspNet_MVC\\ControleDeContatos\\Views\\Usuario\\Criar.cshtml",
+              "RelativeToolTip": "ControleDeContatos\\Views\\Usuario\\Criar.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-15T16:11:14.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ContatoController.cs",
+              "DocumentMoniker": "C:\\Asp\\Cadastro_AspNet_MVC\\ControleDeContatos\\Controllers\\ContatoController.cs",
+              "RelativeDocumentMoniker": "ControleDeContatos\\Controllers\\ContatoController.cs",
+              "ToolTip": "C:\\Asp\\Cadastro_AspNet_MVC\\ControleDeContatos\\Controllers\\ContatoController.cs",
+              "RelativeToolTip": "ControleDeContatos\\Controllers\\ContatoController.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAcwD8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T15:10:34.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Asp\\Cadastro_AspNet_MVC\\ControleDeContatos\\Program.cs",
+              "RelativeDocumentMoniker": "ControleDeContatos\\Program.cs",
+              "ToolTip": "C:\\Asp\\Cadastro_AspNet_MVC\\ControleDeContatos\\Program.cs",
+              "RelativeToolTip": "ControleDeContatos\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T15:09:06.195Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
